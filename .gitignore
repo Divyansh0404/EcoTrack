@@ -78,3 +78,6 @@ firebase-debug.log*
 
 # Large model files (uncomment if model is too large)
 # ML/carbon_footprint_model.h5
+# Large data files
+ML/data/IAID/data/*.csv
+ML/data/IAID/*.zip
